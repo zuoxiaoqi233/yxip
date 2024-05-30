@@ -1,0 +1,17 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+35.241.49.199,80,FALSE,HKG,Asia Pacific,Hong Kong,64 ms,23038 kB/s
+34.102.111.127,80,FALSE,LAX,North America,Los Angeles,196 ms,8109 kB/s
+35.244.181.58,80,FALSE,SJC,North America,San Jose,215 ms,7691 kB/s
+34.49.212.232,80,FALSE,LAX,North America,Los Angeles,217 ms,6561 kB/s
+34.160.118.77,80,FALSE,LAX,North America,Los Angeles,276 ms,6194 kB/s
+34.117.254.68,80,FALSE,LAX,North America,Los Angeles,196 ms,5352 kB/s
+34.110.234.120,80,FALSE,LAX,North America,Los Angeles,273 ms,4588 kB/s
+34.36.183.121,80,FALSE,LAX,North America,Los Angeles,214 ms,3022 kB/s
+34.111.135.19,80,FALSE,LAX,North America,Los Angeles,288 ms,1056 kB/s
+35.247.124.181,80,FALSE,SEA,North America,Seattle,305 ms,498 kB/s
+34.105.49.234,80,FALSE,SEA,North America,Seattle,281 ms,424 kB/s
+34.82.76.253,80,FALSE,SEA,North America,Seattle,299 ms,299 kB/s
+34.93.226.165,80,FALSE,BOM,Asia Pacific,Mumbai,355 ms,185 kB/s
+35.232.39.116,80,FALSE,DFW,North America,Dallas,244 ms,58 kB/s
+34.49.199.30,80,FALSE,LAX,North America,Los Angeles,277 ms,0 kB/s
+34.93.79.152,80,FALSE,BOM,Asia Pacific,Mumbai,346 ms,0 kB/s
