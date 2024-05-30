@@ -1,0 +1,52 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+8.222.193.65,8443,8443,true,SIN,Asia Pacific,Singapore,76,2.46
+168.138.47.238,8443,80,false,KIX,Asia Pacific,Osaka,110,1.31
+47.76.33.40,8443,8443,true,HKG,Asia Pacific,Hong Kong,22,1.01
+8.218.207.169,8443,8443,true,HKG,Asia Pacific,Hong Kong,25,0.93
+3.108.55.92,8443,443,true,BOM,Asia Pacific,Mumbai,147,0.88
+52.38.230.144,8443,443,true,SEA,North America,Seattle,241,0.76
+23.94.208.167,8443,443,true,SJC,North America,San Jose,205,0.76
+47.237.83.20,8443,8443,true,SIN,Asia Pacific,Singapore,270,0.71
+154.9.240.102,8443,443,true,LAX,North America,Los Angeles,182,0.67
+51.107.11.76,8443,443,true,MXP,Europe,Milan,227,0.67
+104.168.102.121,8443,443,true,SJC,North America,San Jose,180,0.66
+152.67.78.164,8443,443,true,MXP,Europe,Milan,264,0.65
+150.136.241.40,8443,443,true,IAD,North America,Ashburn,268,0.63
+54.93.221.167,8443,443,true,FRA,Europe,Frankfurt,160,0.61
+8.219.100.168,8443,8443,true,SIN,Asia Pacific,Singapore,68,0.57
+47.237.82.15,8443,8443,true,SIN,Asia Pacific,Singapore,273,0.57
+8.222.134.170,8443,8443,true,SIN,Asia Pacific,Singapore,61,0.53
+8.219.42.72,8443,8443,true,SIN,Asia Pacific,Singapore,59,0.53
+47.236.158.158,8443,8443,true,SIN,Asia Pacific,Singapore,108,0.52
+47.236.117.48,8443,8443,true,SIN,Asia Pacific,Singapore,114,0.51
+47.237.92.26,8443,8443,true,SIN,Asia Pacific,Singapore,275,0.51
+47.236.180.24,8443,8443,true,SIN,Asia Pacific,Singapore,112,0.49
+47.236.80.110,8443,8443,true,SIN,Asia Pacific,Singapore,116,0.48
+47.236.10.182,8443,8443,true,SIN,Asia Pacific,Singapore,110,0.48
+34.244.119.61,8443,443,true,DUB,Europe,Dublin,352,0.47
+47.236.174.206,8443,8443,true,SIN,Asia Pacific,Singapore,106,0.44
+47.236.253.41,8443,8443,true,SIN,Asia Pacific,Singapore,111,0.44
+8.219.174.213,8443,8443,true,SIN,Asia Pacific,Singapore,106,0.42
+47.236.180.51,8443,8443,true,SIN,Asia Pacific,Singapore,110,0.39
+47.236.189.92,8443,8443,true,SIN,Asia Pacific,Singapore,111,0.39
+47.237.10.1,8443,8443,true,SIN,Asia Pacific,Singapore,268,0.38
+47.237.94.140,8443,8443,true,SIN,Asia Pacific,Singapore,270,0.37
+47.237.84.173,8443,8443,true,SIN,Asia Pacific,Singapore,270,0.30
+13.37.32.97,8443,443,true,CDG,Europe,Paris,213,0.22
+47.236.125.62,8443,8443,true,NRT,Asia Pacific,Tokyo,209,0.21
+13.43.93.40,8443,443,true,LHR,Europe,London,355,0.17
+47.237.11.182,8443,8443,true,SIN,Asia Pacific,Singapore,273,0.16
+47.76.94.15,8443,8443,true,HKG,Asia Pacific,Hong Kong,28,0.14
+35.222.230.126,8443,443,true,ORD,North America,Chicago,229,0.10
+156.251.189.154,8443,443,true,LAX,North America,Los Angeles,205,0.09
+154.40.32.15,8443,443,true,LAX,North America,Los Angeles,203,0.08
+140.83.82.88,8443,443,true,KIX,Asia Pacific,Osaka,106,0.07
+3.98.54.22,8443,443,true,YUL,North America,Montréal,267,0.07
+138.2.36.157,8443,443,true,KIX,Asia Pacific,Osaka,100,0.07
+144.24.173.250,8443,443,true,FRA,Europe,Frankfurt,251,0.06
+3.133.86.114,8443,443,true,ORD,North America,Chicago,276,0.01
+152.70.123.225,8443,443,true,SJC,North America,San Jose,204,0.00
+16.16.58.65,8443,443,true,OSL,Europe,Oslo,267,0.00
+8.222.214.231,8443,8443,true,SIN,Asia Pacific,Singapore,66,0.00
+192.210.243.216,8443,443,true,YYZ,North America,Toronto,224,0.00
+54.229.195.253,8443,443,true,DUB,Europe,Dublin,207,0.00

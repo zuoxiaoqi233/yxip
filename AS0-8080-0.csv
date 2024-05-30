@@ -1,0 +1,47 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+138.2.85.23,8080,443,true,SIN,Asia Pacific,Singapore,65,2.27
+13.48.10.50,8080,443,true,OSL,Europe,Oslo,228,1.27
+47.236.170.54,8080,8080,false,SIN,Asia Pacific,Singapore,107,1.05
+47.236.232.148,8080,8080,false,SIN,Asia Pacific,Singapore,106,1.01
+47.76.146.1,8080,8080,false,HKG,Asia Pacific,Hong Kong,21,0.96
+8.219.99.169,8080,8080,false,SIN,Asia Pacific,Singapore,60,0.77
+8.222.193.65,8080,8080,false,SIN,Asia Pacific,Singapore,62,0.76
+8.218.181.189,8080,8080,false,HKG,Asia Pacific,Hong Kong,33,0.73
+8.222.180.86,8080,8080,false,SIN,Asia Pacific,Singapore,59,0.69
+8.218.188.129,8080,8080,false,HKG,Asia Pacific,Hong Kong,31,0.59
+8.217.239.116,8080,8080,false,HKG,Asia Pacific,Hong Kong,23,0.59
+13.51.70.64,8080,443,true,OSL,Europe,Oslo,234,0.59
+47.237.11.182,8080,8080,false,SIN,Asia Pacific,Singapore,274,0.57
+47.237.8.82,8080,8080,false,SIN,Asia Pacific,Singapore,268,0.55
+47.236.172.95,8080,8080,false,SIN,Asia Pacific,Singapore,105,0.52
+51.120.240.115,8080,443,true,CPH,Europe,Copenhagen,254,0.51
+51.20.94.116,8080,443,true,OSL,Europe,Oslo,231,0.48
+47.236.150.13,8080,8080,false,SIN,Asia Pacific,Singapore,111,0.44
+47.236.166.131,8080,8080,false,SIN,Asia Pacific,Singapore,111,0.43
+47.236.180.51,8080,8080,false,SIN,Asia Pacific,Singapore,118,0.43
+47.236.104.11,8080,8080,false,SIN,Asia Pacific,Singapore,116,0.42
+47.236.169.15,8080,8080,false,SIN,Asia Pacific,Singapore,111,0.40
+47.236.174.206,8080,8080,false,SIN,Asia Pacific,Singapore,115,0.35
+47.236.165.25,8080,8080,false,SIN,Asia Pacific,Singapore,110,0.29
+35.177.209.223,8080,443,true,LHR,Europe,London,365,0.26
+8.217.251.62,8080,8080,false,HKG,Asia Pacific,Hong Kong,28,0.24
+47.236.189.92,8080,8080,false,SIN,Asia Pacific,Singapore,119,0.21
+8.219.0.48,8080,8080,false,SIN,Asia Pacific,Singapore,69,0.18
+47.236.123.133,8080,8080,false,SIN,Asia Pacific,Singapore,112,0.17
+47.242.171.94,8080,8080,false,HKG,Asia Pacific,Hong Kong,26,0.17
+13.40.82.199,8080,443,true,LHR,Europe,London,349,0.16
+3.0.115.176,8080,443,true,SIN,Asia Pacific,Singapore,60,0.15
+47.236.93.176,8080,8080,false,SIN,Asia Pacific,Singapore,117,0.14
+47.236.125.62,8080,8080,false,NRT,Asia Pacific,Tokyo,181,0.09
+47.237.10.1,8080,8080,false,SIN,Asia Pacific,Singapore,274,0.09
+8.219.42.72,8080,8080,false,SIN,Asia Pacific,Singapore,64,0.06
+8.219.202.130,8080,8080,false,SIN,Asia Pacific,Singapore,107,0.04
+47.236.97.90,8080,8080,false,SIN,Asia Pacific,Singapore,115,0.04
+47.236.170.225,8080,8080,false,SIN,Asia Pacific,Singapore,106,0.04
+47.236.180.24,8080,8080,false,SIN,Asia Pacific,Singapore,116,0.04
+47.236.149.107,8080,8080,false,SIN,Asia Pacific,Singapore,117,0.03
+47.236.10.182,8080,8080,false,SIN,Asia Pacific,Singapore,116,0.02
+47.236.121.23,8080,8080,false,SIN,Asia Pacific,Singapore,118,0.02
+47.76.159.146,8080,8080,false,HKG,Asia Pacific,Hong Kong,23,0.00
+8.217.221.165,8080,8080,false,HKG,Asia Pacific,Hong Kong,29,0.00
+141.147.144.246,8080,443,true,KIX,Asia Pacific,Osaka,92,0.00
